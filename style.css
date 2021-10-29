@@ -1,0 +1,48 @@
+* {
+    text-align: center;
+}
+.Event1 {
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.Fclass {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: space-between;
+    padding: 20px;
+}
+
+.textvalues {
+    display: flex;
+}
+
+.txt {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    padding: 10px;
+}
+/* .Fclass #NoSeats {
+    display: flex;
+    align-self: center;
+} */
+
+/* .Fclass .Nseats {
+    display: flex;
+    align-self: flex-start;
+    margin-left: 40px;
+} */
+
+/* .Cbutton {
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    align-content: space-between;
+} */
